@@ -15,3 +15,8 @@ My work focuses on building **reproducible, extensible pipelines** for real-worl
 - Wildlife & Conservation Technology
 
 I enjoy working on projects that prioritize **clean architecture, reproducibility, and long-term extensibility** over one-off demos.
+
+
+
+
+
