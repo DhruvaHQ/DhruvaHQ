@@ -1,16 +1,17 @@
-    import random
+   ## Hi, I’m Dhruva 👋
 
-    while True:
-    choice = input('Roll the dice? (y/n): ').lower()
-        
-        if choice == 'y':
-        die1 = random.randint(1, 6)
-        die2 = random.randint(1, 6)
-        print(f'({die1}, {die2})')
-    
-    elif choice == 'n':
-        print('Thanks for playing!')
-        break
-    
-    else:
-        print('Invalid input!')
+I’m a Computer Science undergraduate with a strong interest in **AI systems, computer vision, and research-oriented software design**.
+
+My work focuses on building **reproducible, extensible pipelines** for real-world AI applications, with a particular interest in conservation technology and machine learning infrastructure.
+
+### Featured Project
+- **WildlifeAI** — AI-ready, research-oriented pipeline for wildlife camera-trap image analysis  
+  🔗 https://github.com/DhruvaHQ/wildlifeai
+
+### Interests
+- Machine Learning Systems
+- Computer Vision
+- Research Software Engineering
+- Wildlife & Conservation Technology
+
+I enjoy working on projects that prioritize **clean architecture, reproducibility, and long-term extensibility** over one-off demos.
