@@ -5,7 +5,7 @@ I’m a Computer Science undergraduate with a strong interest in **AI systems, c
 My work focuses on building **reproducible, extensible pipelines** for real-world AI applications, with a particular interest in conservation technology and machine learning infrastructure.
 
 **Portfolio**
-(https://dhruvavish2406.vercel.app/)
+https://dhruvavish2406.vercel.app/
 
 ### Featured Project
 - **WildlifeAI** — AI-ready, research-oriented pipeline for wildlife camera-trap image analysis  
